@@ -1,0 +1,5 @@
+/config/database.php
+/.env
+/.env.*
+!/.env.example
+/sql/diagnostico.php
